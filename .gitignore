@@ -1,0 +1,7 @@
+.idea/inspectionProfiles/
+.idea/workspace.xml
+.idea/libraries/lib.xml
+out/*
+*.class
+._*
+.DS_Store
